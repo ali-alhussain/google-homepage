@@ -1,0 +1,107 @@
+path {
+  font-family: arial, sans-serif;
+  font-size: small;
+  fill: currentColor;
+  line-height: 24px;
+  color: #9aa0a6;
+}
+
+svg {
+  font-family: arial, sans-serif;
+  font-size: small;
+  fill: currentColor;
+  line-height: 24px;
+  color: #9aa0a6;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.wFncld {
+  font-family: arial, sans-serif;
+  font-size: small;
+  display: inline-block;
+  fill: currentColor;
+  line-height: 24px;
+  position: relative;
+  color: #9aa0a6;
+  height: 20px;
+  width: 20px;
+  margin-top: 3px;
+}
+
+nav {
+  float: right;
+  width: auto;
+  height: auto;
+}
+
+#Google-logo {
+  width: 300px;
+  height: 100px;
+  padding: 100px;
+  margin: auto;
+}
+
+#search-bar {
+  margin: auto;
+  width: 500px;
+  height: auto;
+  display: flex;
+  border: 1px solid #dfe1e5;
+}
+
+#search-input {
+  border: none;
+}
+
+#buttons {
+  margin: auto;
+  width: 270px;
+  height: auto;
+  padding: 20px;
+  display: block;
+}
+
+button {
+  background-color: #f2f2f2;
+  font-size: 15px;
+}
+
+#lang-option {
+  margin: auto;
+  width: 200px;
+  height: auto;
+  display: flex;
+}
+
+#bottom-of-page {
+  position: fixed;
+  bottom: 0;
+  text-align: justify;
+  width: 100%;
+  margin: auto;
+  background-color: #f2f2f2;
+}
+
+#country {
+  border: 1px solid #e4e4e4;
+}
+
+footer {
+  border: 0 1px 1px 0 solid #e4e4e4;
+}
+
+#bottom-of-page span {
+  padding-right: 30px;
+}
+
+#footer-left {
+  text-align: left;
+  float: left;
+}
+
+#footer-right {
+  text-align: right;
+  float: right;
+}
